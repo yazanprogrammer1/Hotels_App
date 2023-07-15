@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HotelBooking" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/prim2</item>
+        <item name="android:statusBarColor">@color/prim1</item>
+
+    </style>
+</resources>

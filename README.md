@@ -5,7 +5,7 @@ This application is hotel management for a company specializing in hotel managem
 The user can book the room he wants in any hotel he wants, and there is an admin for the application that accepts reservations and adds rooms, hotels, etc..
 
 <p align="center">
-  <img src="https://github.com/yazanprogrammer1/Shyf_App_Social_Media/blob/master/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Presentation.jpg" href="">
+  <img src="https://github.com/yazanprogrammer1/Hotels_App/blob/master/Hotels_App.jpg" href="">
 </p>
 <!-- <p align="left">
   <a href="https://youtu.be/JflJjPxhFQo" align="center">Check YouTube for Complete Video Tutorial</a>
